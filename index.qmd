@@ -11,6 +11,7 @@ format:
     incremental: true
     slide-number: c/t
     show-slide-number: all
+    scrollable: true
 ---
 
 ## Inclusion scolaire et climat de classe {visibility="uncounted" background-image="https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" background-opacity="0.5"}
